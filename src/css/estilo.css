@@ -12,8 +12,6 @@ body{
 
     width: 600px;
     height: 430px;
-    margin: 0 auto;
-    margin-top: 100px;
     border-radius: 30px;
     box-shadow: 10px 10px #eef1fe;
     display: flex;
